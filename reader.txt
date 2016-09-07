@@ -1,1 +1,2 @@
 today is create git happy so  cool
+今天学习git
